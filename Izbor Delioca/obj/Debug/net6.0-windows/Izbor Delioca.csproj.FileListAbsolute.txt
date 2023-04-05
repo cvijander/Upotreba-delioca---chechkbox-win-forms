@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Izbor Delioca\Izbor Delioca\bin\Debug\net6.0-windows\Izbor Delioca.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Izbor Delioca\Izbor Delioca\bin\Debug\net6.0-windows\Izbor Delioca.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Izbor Delioca\Izbor Delioca\bin\Debug\net6.0-windows\Izbor Delioca.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Izbor Delioca\Izbor Delioca\bin\Debug\net6.0-windows\Izbor Delioca.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Izbor Delioca\Izbor Delioca\bin\Debug\net6.0-windows\Izbor Delioca.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Izbor Delioca\Izbor Delioca\obj\Debug\net6.0-windows\Izbor Delioca.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Izbor Delioca\Izbor Delioca\obj\Debug\net6.0-windows\Izbor_Delioca.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Izbor Delioca\Izbor Delioca\obj\Debug\net6.0-windows\Izbor Delioca.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Izbor Delioca\Izbor Delioca\obj\Debug\net6.0-windows\Izbor Delioca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Izbor Delioca\Izbor Delioca\obj\Debug\net6.0-windows\Izbor Delioca.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Izbor Delioca\Izbor Delioca\obj\Debug\net6.0-windows\Izbor Delioca.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Izbor Delioca\Izbor Delioca\obj\Debug\net6.0-windows\Izbor Delioca.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Izbor Delioca\Izbor Delioca\obj\Debug\net6.0-windows\Izbor Delioca.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Izbor Delioca\Izbor Delioca\obj\Debug\net6.0-windows\refint\Izbor Delioca.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Izbor Delioca\Izbor Delioca\obj\Debug\net6.0-windows\Izbor Delioca.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Izbor Delioca\Izbor Delioca\obj\Debug\net6.0-windows\Izbor Delioca.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Izbor Delioca\Izbor Delioca\obj\Debug\net6.0-windows\ref\Izbor Delioca.dll
